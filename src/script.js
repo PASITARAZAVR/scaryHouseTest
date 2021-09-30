@@ -161,9 +161,9 @@ scene.add(moonLight)
 
 
 //Door light
-const doorLight = new THREE.PointLight('#ff7d46', 0.8, 7)
-doorLight.position.set(0, 2.2, 2.7)
-house.add(doorLight)
+// const doorLight = new THREE.PointLight('#ff7d46', 0.8, 7)
+// doorLight.position.set(0, 2.2, 2.7)
+// house.add(doorLight)
 
 
 /**
